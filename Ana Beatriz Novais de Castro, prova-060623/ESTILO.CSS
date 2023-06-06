@@ -1,0 +1,25 @@
+
+img {
+    width: 180;
+    height: 240;
+    margin: auto;
+    display: block;
+  }
+
+.centralizar{
+    text-align: center;
+}
+
+body{
+    background-color:#c8a2c8 ;
+}
+
+h2{
+    background-color:#b487b4 ;
+}
+
+style{
+    margin-top:10px;
+}
+
+
